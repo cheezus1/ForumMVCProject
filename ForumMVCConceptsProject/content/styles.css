@@ -1,0 +1,115 @@
+body {
+    width: 80%;
+    margin: 10px auto;
+}
+
+body>header {
+    background: #eee;
+    padding: 10px;
+}
+
+body>header img {
+    display: inline-block;
+}
+
+body>header {
+    margin-bottom: 10px;
+}
+
+body>footer {
+    margin-top: 10px;
+}
+
+.navbar {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.navbar ul {
+    margin-top: 10px;
+}
+
+.jumbotron {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 50px;
+}
+
+body>footer {
+    background: #eee;
+    padding: 5px;
+    text-align: center;
+}
+
+#logged-in-info {
+    float: right;
+    clear: left;
+}
+
+#logged-in-info a {
+    margin-right: 0px;
+    margin-top: 15px;
+}
+
+.custom-form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.custom-form input, .custom-form h1, .custom-form textarea {
+    margin: 10px;
+}
+
+.input-group input {
+    margin: 10px;
+}
+
+.custom-form textarea {
+    resize: none;
+    height: 200px;
+}
+
+.messages {
+    margin: 10px;
+}
+
+.panel {
+    overflow: hidden;
+}
+
+.panel-default {
+    margin: 10px;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.profile-box {
+    border: 1px solid #eee;
+    padding: 50px;
+    overflow: hidden;
+}
+
+.profile-box img {
+    float: left;
+    margin-right: 10px;
+}
+
+.profile-element {
+    font-size: 2em;
+    margin: 10px;
+}
+
+.profile-element-label {
+    color: darkgray;
+}
+
+.btn-danger {
+    float: right;
+}
+
+
+
+
+

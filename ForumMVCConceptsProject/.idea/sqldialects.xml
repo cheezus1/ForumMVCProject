@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/models/AccountModel.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/AnswersModel.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/BaseModel.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/CategoriesModel.php" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/models/QuestionsModel.php" dialect="MySQL" />
+  </component>
+</project>
